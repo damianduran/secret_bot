@@ -63,13 +63,13 @@ You will have to create a `config.json` file in the `/bot_files` folder. The fil
 ```
 {
     "prefix": "!",
-	"discordToken": "YOUR_TOKEN_HERE",
-	"apiKeys": {
-		"youtubeKey": "your_API_key_here",
-		"harvard_art_key": "your_API_key_here",
-		"nasa_key": "your_API_key_here",
-		"weather_key": "your_API_key_here",
-	}
+    "discordToken": "YOUR_TOKEN_HERE",
+    "apiKeys": {
+        "youtubeKey": "your_API_key_here",
+        "harvard_art_key": "your_API_key_here",
+        "nasa_key": "your_API_key_here",
+        "weather_key": "your_API_key_here",
+    }
 }
 
 ```
