@@ -1,0 +1,23 @@
+{
+  "name": "bot_files",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "node-opus": "^0.3.3",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^4.4.5",
+    "ytdl-core-discord": "^1.2.5"
+  }
+}
